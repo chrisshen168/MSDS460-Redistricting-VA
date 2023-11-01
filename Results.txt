@@ -1,0 +1,17 @@
+Current values:
+NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+NotebookApp.rate_limit_window=3.0 (secs)
+
+The choosen districts are out of a total of 4960:
+('Arlington County, Alexandria City', 'Prince William County, Manassas, Manassas Park')
+('Fairfax County, Fairfax City County, Falls Church City County', 'Fauquier County')
+('Albemarle County, Charlottesville', 'Louisa County', 'Madison County, Culpeper County, Greene County, Orange County, Page County, Rappahannock County')
+('Bedford County', 'Roanoke County, Roanoke, Salem', 'Wythe County, Bland County, Bristol, Buchanan County, Dickenson County, Galax, Giles County, Grayson County, Lee County, Norton, Pulaski County, Radford, Russell County, Scott County, Smyth County, Tazewell County, Washington County, Wise County, Carroll County, Floyd County, Montgomery County, Patrick County')
+('Campbell County, Lynchburg', 'Prince Edward County, Amelia County, Appomattox County, Buckingham County, Charlotte County, Cumberland County, Danville, Fluvanna County, Goochland County, Halifax County, Henry County, Lunenburg County, Martinsville, Mecklenburg County, Nottoway County, Pittsylvania County, Powhatan County', 'Rockingham County, Alleghany County, Amherst County, Augusta County, Bath County, Botetourt County, Buena Vista, Covington, Craig County, Harrisonburg, Highland County, Lexington, Nelson County, Rockbridge County, Staunton, Waynesboro')
+('Chesterfield County, Colonial Heights', 'Dinwiddie County, Petersburg', 'Henrico County, Richmond City')
+('Essex County, Charles City County, King and Queen County, King George County, King William County, Lancaster County, Mathews County, Middlesex County, New Kent County, Northumberland County, Richmond County, Westmoreland County', 'James City County, Williamsburg', 'York County, Hampton, Newport News City, Poquoson')
+('Franklin County', 'Prince George County, Hopewell', 'Sussex County, Brunswick County, Emporia, Franklin, Greensville County, Isle of Wight County, Southampton County, Suffolk, Surry County')
+('Gloucester County', 'Northampton County, Accomack County', 'Virginia Beach City County, Chesapeake City, Norfolk City, Portsmouth')
+('Hanover County', 'Spotsylvania County, Caroline County, Fredericksburg City', 'Stafford County')
+('Loudoun County, Clarke County, Frederick County, Winchester', 'Shenandoah County', 'Warren County')
+11

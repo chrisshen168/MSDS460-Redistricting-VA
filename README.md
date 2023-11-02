@@ -15,3 +15,9 @@
  Digan_Pseudocode.py is a file that provides a road map for our code
 
  Assignment_Submit.py the final submission of the code
+
+ va_counties_2022_&_redistricting.plot.py contains the code for plotting the maps    
+
+ va_counties_cd118_2022.geojson is used to plot the actual VA districts    
+
+ va_counties_redistricted.geojson is used to plot the redistricted VA counties
